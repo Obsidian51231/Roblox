@@ -207,7 +207,8 @@
     ],
     "roleNames": [
       "JBBuyer",
-      "AOTBuyer"
+      "AOTBuyer",
+      "SLBuyer"
     ],
     "unwhitelistTime": 1746185014998
   }
