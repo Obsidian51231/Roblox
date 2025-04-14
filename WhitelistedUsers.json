@@ -239,7 +239,8 @@
       "jesuitleplusnul"
     ],
     "roleNames": [
-      "AOTBuyer"
+      "AOTBuyer",
+      "SLBuyer"
     ],
     "unwhitelistTime": 1747067485338
   }
