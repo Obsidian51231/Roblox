@@ -271,7 +271,8 @@
       "DeeFrmo2"
     ],
     "roleNames": [
-      "SLBuyer"
+      "SLBuyer",
+      "JBBuyer"
     ],
     "unwhitelistTime": 1748624908896
   }
